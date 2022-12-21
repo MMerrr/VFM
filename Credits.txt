@@ -1,5 +1,4 @@
-Credits
-
+Credits - Thanks!!!!
       # Stuff
 		- VFM
 		- Community Project Mod 
@@ -7,7 +6,8 @@ Credits
 		- Better and Flavorful Laws
 		- Cities: skylines
 		- Realistic Power Plants (and additional mesh fixes)
-		- Historical Population Growth & Resources
+		- Better population growth
+		- Better Migration
 		- More spreadsheets 
 		- Dense military tab
 		- Ultra historical research
@@ -20,25 +20,29 @@ Credits
 		- ARoAI + com patches for RPP & N&M
 		- Newspapers & magazines
 		- Visible pop needs
-		-Dense Buildings
-		-More Graphs
-		-Mediterranean Architecture
-		-Diverse European Architectures
-		-Interests below Diplomatic Relations
-		-Compact State Overview
-		-Better Flags Mod
-		-Universal Names
-		-Historical Figures
-		-Visual Leaders
-		-Remove Overlord Border on Flag Mod
-		-Better War & Diplo Notifications
-		-Building employment data
-		-Improved Battle Interface
-		-Extended building map list
-		-Improved Building Grid
-		-Visual Methods
-		-Visible Pop Needs
-		-More Spreadsheets
+		- Dense Buildings
+		- More Graphs
+		- Mediterranean Architecture
+		- Diverse European Architectures
+		- Interests below Diplomatic Relations
+		- Compact State Overview
+		- Better Flags Mod
+		- Universal Names
+		- Historical Figures
+		- Visual Leaders
+		- Remove Overlord Border on Flag Mod
+		- Better War & Diplo Notifications
+		- Building employment data
+		- Improved Battle Interface
+		- Extended building map list
+		- Improved Building Grid
+		- Visual Methods
+		- Visible Pop Needs
+		- More Spreadsheets
+		- All quite on the weastern front
+		- Subsistance Overhaul Light
+		- More formable nations
+		- Minature Cities
 
 		#QOL Mods
 		State transfer tool - https://steamcommunity.com/sharedfiles/filedetails/?id=2880446671
@@ -68,7 +72,6 @@ Credits
 		
 		# Graphical Mods
 		Vibrant Water - https://steamcommunity.com/sharedfiles/filedetails/?id=2883041137&searchtext=Vibrant+Water
-		Minature Cities - https://steamcommunity.com/sharedfiles/filedetails/?id=2885459992&searchtext=Smaller+Cities
 		Mediterranean Architecture - https://steamcommunity.com/sharedfiles/filedetails/?id=2880034288
 		
 		#Flavor Mods
