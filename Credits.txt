@@ -1,0 +1,76 @@
+Credits
+
+      # Stuff
+		- VFM
+		- Community Project Mod 
+		- Better Decrees
+		- Better and Flavorful Laws
+		- Cities: skylines
+		- Realistic Power Plants (and additional mesh fixes)
+		- Historical Population Growth & Resources
+		- More spreadsheets 
+		- Dense military tab
+		- Ultra historical research
+		- Minor Economy Modifications
+		- Improved building grid
+		- Navy Needs Fuel
+		- Improved Australia
+		- Improved automation
+		- Construction Queue with States
+		- ARoAI + com patches for RPP & N&M
+		- Newspapers & magazines
+		- Visible pop needs
+		-Dense Buildings
+		-More Graphs
+		-Mediterranean Architecture
+		-Diverse European Architectures
+		-Interests below Diplomatic Relations
+		-Compact State Overview
+		-Better Flags Mod
+		-Universal Names
+		-Historical Figures
+		-Visual Leaders
+		-Remove Overlord Border on Flag Mod
+		-Better War & Diplo Notifications
+		-Building employment data
+		-Improved Battle Interface
+		-Extended building map list
+		-Improved Building Grid
+		-Visual Methods
+		-Visible Pop Needs
+		-More Spreadsheets
+
+		#QOL Mods
+		State transfer tool - https://steamcommunity.com/sharedfiles/filedetails/?id=2880446671
+		Transfer Cash - https://steamcommunity.com/sharedfiles/filedetails/?id=2881548032
+		Dense Market Details - https://steamcommunity.com/sharedfiles/filedetails/?id=2881762225&searchtext=Dense+Market+Details
+		Dense Trade Routes Tab - https://steamcommunity.com/sharedfiles/filedetails/?id=2881996099&searchtext=Dense+Market+Details
+		Practical Heatmaps - https://steamcommunity.com/sharedfiles/filedetails/?id=2882033954&searchtext=practical
+		Improved Building Grid - https://steamcommunity.com/sharedfiles/filedetails/?id=2883323135&searchtext=improved
+		Extended Building Map List - https://steamcommunity.com/id/arcadyy/myworkshopfiles/?appid=529340&browsefilter=mysubscriptions&p=1&sortmethod=lastupdated
+		Dense Military Tab - https://steamcommunity.com/sharedfiles/filedetails/?id=2885691742&searchtext=Dense+Military+Tab
+		One Outliner to Rule Them All - https://steamcommunity.com/sharedfiles/filedetails/?id=2883738219&searchtext=One+Outliner+to+Rule+Them+All
+		Improved Battle Interface - https://steamcommunity.com/sharedfiles/filedetails/?id=2886497091&searchtext=Improved+Battle+Interface
+		Trade Routes in Goods Panel - https://steamcommunity.com/sharedfiles/filedetails/?id=2888134057&searchtext=Trade+Routes+in+Goods+Panel
+		Building Employment Data - https://steamcommunity.com/sharedfiles/filedetails/?id=2890589141&searchtext=Building+Staffing+Percentage+Visible
+		Recruit 3 Commanders - https://steamcommunity.com/sharedfiles/filedetails/?id=2886782063&searchtext=Recruit+3+Commanders
+		Extra Topbar Info - https://steamcommunity.com/sharedfiles/filedetails/?id=2888391145&searchtext=Extra+Topbar+Info
+		Notifications Filter - https://steamcommunity.com/sharedfiles/filedetails/?id=2883625242&searchtext=Notifications+Filter
+		Notifications not over Outliner - https://steamcommunity.com/sharedfiles/filedetails/?id=2884318353&searchtext=Notifications+Filter
+		Better War & Diplo Notifications - https://steamcommunity.com/sharedfiles/filedetails/?id=2887390170&searchtext=better+War+%26+Diplo+Notification
+		Removed Overlord Border on Flag mod - https://steamcommunity.com/sharedfiles/filedetails/?id=2881234308&searchtext=Removed+Overlord+Border+on+Flag+mod
+		Best Order - https://steamcommunity.com/sharedfiles/filedetails/?id=2886041246&searchtext=Best+Order
+		Reject Back Down - https://steamcommunity.com/sharedfiles/filedetails/?id=2885962722&searchtext=Reject+Back+Down
+		Adopt Western Clothes - https://steamcommunity.com/sharedfiles/filedetails/?id=2882557699&searchtext=Adopt+Western+Style+Clothes
+		Government Run Profit - https://steamcommunity.com/sharedfiles/filedetails/?id=2880313694&searchtext=Government+Run+Profit
+		Production Methods Auto Conversion - https://steamcommunity.com/sharedfiles/filedetails/?id=2892482848&searchtext=Production+Methods+Auto+Conversion
+
+		
+		# Graphical Mods
+		Vibrant Water - https://steamcommunity.com/sharedfiles/filedetails/?id=2883041137&searchtext=Vibrant+Water
+		Minature Cities - https://steamcommunity.com/sharedfiles/filedetails/?id=2885459992&searchtext=Smaller+Cities
+		Mediterranean Architecture - https://steamcommunity.com/sharedfiles/filedetails/?id=2880034288
+		
+		#Flavor Mods
+		Better Flags Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=2880777583&searchtext=Better+Flags+Mod
+		Expanded Characters & Commanders of Historical Importance (ECCHI) - https://steamcommunity.com/sharedfiles/filedetails/?id=2882342752&searchtext=%09%09Expanded+Characters+%26+Commanders+of+Historical+Importance+%28ECC

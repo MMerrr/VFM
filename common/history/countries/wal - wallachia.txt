@@ -4,8 +4,15 @@
 		
 		effect_starting_politics_traditional = yes
 		activate_law = law_type:law_slave_trade
-
-		add_journal_entry = { type = je_unify_romania }
+		
+		activate_law = law_type:law_religious_schools #Was none
+		
+		add_journal_entry = { type = je_unify_romania}
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 1
+		}
 
 		ig:ig_devout = {
 			set_interest_group_name = ig_orthodox_church

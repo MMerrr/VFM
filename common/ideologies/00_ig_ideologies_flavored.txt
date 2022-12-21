@@ -85,6 +85,13 @@ ideology_junker_paternalistic = {
 		law_council_republic = strongly_disapprove
 	}
 	
+	lawgroup_navy_model = {
+		law_professional_navy = strongly_approve
+		law_merchant_navy = disapprove
+		law_mass_draft = approve
+		law_feudal_navy = disapprove
+	}
+
 	lawgroup_distribution_of_power = {
 		law_landed_voting = strongly_approve
 		law_autocracy = strongly_approve
@@ -184,7 +191,14 @@ ideology_bakufu = { #NFM EDITS BROAD
 		law_national_guard = approve
 		law_no_home_affairs = disapprove
 		law_guaranteed_liberties = strongly_disapprove
-	}	
+	}
+
+	lawgroup_navy_model = {
+		law_professional_navy = strongly_approve
+		law_merchant_navy = disapprove
+		law_mass_draft = approve
+		law_feudal_navy = disapprove
+	}
 	
 	lawgroup_free_speech = {
 		law_outlawed_dissent = strongly_approve
@@ -264,6 +278,13 @@ ideology_caudillismo = {
 		law_theocracy = neutral
 		law_parliamentary_republic = neutral
 		law_council_republic = strongly_disapprove
+	}
+
+	lawgroup_navy_model = {
+		law_professional_navy = strongly_approve
+		law_merchant_navy = disapprove
+		law_mass_draft = approve
+		law_feudal_navy = disapprove
 	}
 	
 	lawgroup_distribution_of_power = {
